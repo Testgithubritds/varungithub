@@ -1,2 +1,3 @@
-# varungithub
-This is first repository
+groupadd mqm
+useradd -gmqm mqm
+passwd mqm
